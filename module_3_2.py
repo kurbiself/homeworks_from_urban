@@ -11,32 +11,21 @@ def send_email(message: str, recipient: str, *, sender='university.help@gmail.co
 
     """
     flag_email = ['.com', '.ru', '.net']
-    check_email_correct_recipient = True
-    check_email_correct_sender = True
+    check_email_correct_recipient = False
+    check_email_correct_sender = False
     check_email_correct_all = True
-    check_at_sign = True
+    check_at_sign = False
 
     for i in flag_email:
         if recipient.endswith(i):
             check_email_correct_recipient = True
-            break
-        else:
-            check_email_correct_recipient = False
-
-    for i in flag_email:
         if sender.endswith(i):
             check_email_correct_sender = True
-            break
-        else:
-            check_email_correct_sender = False
-
     if not (check_email_correct_recipient and check_email_correct_sender):
         check_email_correct_all = False
 
     if "@" in sender and "@" in recipient:
         check_at_sign = True
-    else:
-        check_at_sign = False
 
     if not (check_email_correct_all and check_at_sign):
         notification = f'Невозможно отправить письмо с адреса "{sender}" на адрес "{recipient}"'
@@ -50,6 +39,7 @@ def send_email(message: str, recipient: str, *, sender='university.help@gmail.co
 
 
 print(send_email('Это сообщение для проверки связи', 'vasyok1337@gmail.com'))
-print(send_email('Вы видите это сообщение как лучший студент курса!', 'urban.fan@mail.ru', sender='urban.info@gmail.com'))
+print(
+    send_email('Вы видите это сообщение как лучший студент курса!', 'urban.fan@mail.ru', sender='urban.info@gmail.com'))
 print(send_email('Пожалуйста, исправьте задание', 'urban.student@mail.ru', sender='urban.teacher@mail.uk'))
 print(send_email('Напоминаю самому себе о вебинаре', 'urban.teacher@mail.ru', sender='urban.teacher@mail.ru'))
