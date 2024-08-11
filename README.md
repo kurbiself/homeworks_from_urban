@@ -10,6 +10,7 @@
     * [Модуль 1](#title2)
     * [Модуль 2](#title3)
     * [Модуль 3](#title4)
+    * [Модуль 4](#title5)
 
 ## <a id="title1">Описание проекта</a>
 
@@ -59,6 +60,10 @@ python.\homework1.py
 | [HOMEWORK Hard](module_3_hard.py)        | Раз, два, три, четыре, пять .... Это не всё? |
 | [Practical task](module_3_calculator.py) | Калькулятор                                  |
 
+### <a id="title5">Модуль 4</a>
 
+| Homeworks                   | Description                             |
+|-----------------------------|-----------------------------------------|
+| [HOMEWORK 1](module_4_1.py) | Модули и пакеты. Задача "А как делить?" |
 
 
