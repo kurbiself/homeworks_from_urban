@@ -1,5 +1,5 @@
 from math import inf
-def divide(first, second: int) -> str:
+def divide(first, second: int):
     if second == 0:
         result = inf
     else:

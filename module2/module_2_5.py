@@ -12,9 +12,7 @@ def get_matrix(n: int, m: int, value) -> list:
     """
     matrix = []
     for i in range(n):
-        list_for_matrix = []
-        for j in range(m):
-            list_for_matrix.append(value)
+        list_for_matrix = [value for j in range(m)]
         matrix.append(list_for_matrix)
     return matrix
 

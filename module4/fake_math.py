@@ -1,4 +1,4 @@
-def divide(first, second: int) -> str:
+def divide(first, second: int):
     if second == 0:
         result = 'Ошибка, на ноль делить нельзя!'
     else:

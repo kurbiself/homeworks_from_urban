@@ -30,40 +30,40 @@ python.\homework1.py
 
 | Homeworks                        | Description                                     |
 |----------------------------------|-------------------------------------------------|
-| [HOMEWORK 1](homework1.py)       | Строки и индексация строк                       |
-| [HOMEWORK 2](homework2.py)       | Переменные                                      |
-| [HOMEWORK 3](homework3.py)       | Динамическая типизация                          |
-| [HOMEWORK 4](homework4.py)       | Организация программ и методы строк             |
-| [HOMEWORK 5](homework5.py)       | Неизменяемые и изменяемые объекты. <br/>Кортежи |
-| [HOMEWORK 6](homework6.py)       | Словари и множества                             |
-| [HOMEWORK HARD](module1hard..py) | Подсчёт среднего балла                          |
+| [HOMEWORK 1](module1/homework1.py)       | Строки и индексация строк                       |
+| [HOMEWORK 2](module1/homework2.py)       | Переменные                                      |
+| [HOMEWORK 3](module1/homework3.py)       | Динамическая типизация                          |
+| [HOMEWORK 4](module1/homework4.py)       | Организация программ и методы строк             |
+| [HOMEWORK 5](module1/homework5.py)       | Неизменяемые и изменяемые объекты. <br/>Кортежи |
+| [HOMEWORK 6](module1/homework6.py)       | Словари и множества                             |
+| [HOMEWORK HARD](module1/module1hard..py) | Подсчёт среднего балла                          |
 
 ### <a id="title3">Модуль 2</a>
 
 | Homeworks                         | Description                                          |
 |-----------------------------------|------------------------------------------------------|
-| [HOMEWORK 2](module_2_2.py)       | Условная конструкция. <br/>Операторы if, elif, else. |
-| [HOMEWORK 3](module_2_3.py)       | Стиль кода часть II. Цикл While                      |
-| [HOMEWORK 4](module_2_4.py)       | Цикл for. Элементы списка. Полезные функции в цикле  |
-| [HOMEWORK 5](module_2_5.py)       | Функции в Python.Функция с параметром                |
-| [HOMEWORK HARD](module_2_hard.py) | Слишком древний шифр                                 |
+| [HOMEWORK 2](module2/module_2_2.py)       | Условная конструкция. <br/>Операторы if, elif, else. |
+| [HOMEWORK 3](module2/module_2_3.py)       | Стиль кода часть II. Цикл While                      |
+| [HOMEWORK 4](module2/module_2_4.py)       | Цикл for. Элементы списка. Полезные функции в цикле  |
+| [HOMEWORK 5](module2/module_2_5.py)       | Функции в Python.Функция с параметром                |
+| [HOMEWORK HARD](module2/module_2_hard.py) | Слишком древний шифр                                 |
 
 ### <a id="title4">Модуль 3</a>
 
 | Homeworks                                | Description                                  |
 |------------------------------------------|----------------------------------------------|
-| [HOMEWORK 1](module_3_1.py)              | Пространство имён. Счётчик вызовов           |
-| [HOMEWORK 2](module_3_2.py)              | Спосбы вызова функции. Рассылка писем        |
-| [HOMEWORK 3](module_3_3.py)              | Распаковка позиционных параметров            |
-| [HOMEWORK 4](module_3_4.py)              | Призвольное число параметров. Однокоренные   |
-| [HOMEWORK 5](module_3_5.py)              | Рекурсия                                     |
-| [HOMEWORK Hard](module_3_hard.py)        | Раз, два, три, четыре, пять .... Это не всё? |
-| [Practical task](module_3_calculator.py) | Калькулятор                                  |
+| [HOMEWORK 1](module3/module_3_1.py)              | Пространство имён. Счётчик вызовов           |
+| [HOMEWORK 2](module3/module_3_2.py)              | Спосбы вызова функции. Рассылка писем        |
+| [HOMEWORK 3](module3/module_3_3.py)              | Распаковка позиционных параметров            |
+| [HOMEWORK 4](module3/module_3_4.py)              | Призвольное число параметров. Однокоренные   |
+| [HOMEWORK 5](module3/module_3_5.py)              | Рекурсия                                     |
+| [HOMEWORK Hard](module3/module_3_hard.py)        | Раз, два, три, четыре, пять .... Это не всё? |
+| [Practical task](module3/module_3_calculator.py) | Калькулятор                                  |
 
 ### <a id="title5">Модуль 4</a>
 
 | Homeworks                   | Description                             |
 |-----------------------------|-----------------------------------------|
-| [HOMEWORK 1](module_4_1.py) | Модули и пакеты. Задача "А как делить?" |
+| [HOMEWORK 1](module4/module_4_1.py) | Модули и пакеты. Задача "А как делить?" |
 
 
