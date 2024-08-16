@@ -11,6 +11,7 @@
     * [Модуль 2](#title3)
     * [Модуль 3](#title4)
     * [Модуль 4](#title5)
+    * [Модуль 5](#title6)
 
 ## <a id="title1">Описание проекта</a>
 
@@ -67,4 +68,8 @@ python.\homework1.py
 | [HOMEWORK 1](module4/module_4_1.py)   | Модули и пакеты. Задача "А как делить?" |
 | [Practical task](module4/sortfunc.py) | Пространство имён. Сортирвока"          |
 
+### <a id="title6">Модуль 5</a>
 
+| Homeworks                           | Description               |
+|-------------------------------------|---------------------------|
+| [HOMEWORK 1](module5/module_5_1.py) | Атрибуты и методы объекта |
