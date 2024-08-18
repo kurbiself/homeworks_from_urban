@@ -10,6 +10,14 @@ class House:
             for i in range(1, new_floor + 1):
                 print(i)
 
+    def __len__(self):
+        return self.number_of_floors
+
+    def __str__(self):
+        return f'Название: {self.name}, кол-во этажей: {self.number_of_floors}'
+
 
 barbie_dream_house = House('ЖК Barbie', 3)
-barbie_dream_house.go_to(3)
+#barbie_dream_house.go_to(3)
+print(len(barbie_dream_house))
+print(barbie_dream_house)

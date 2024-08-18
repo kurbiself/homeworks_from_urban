@@ -70,6 +70,7 @@ python.\homework1.py
 
 ### <a id="title6">Модуль 5</a>
 
-| Homeworks                           | Description               |
-|-------------------------------------|---------------------------|
-| [HOMEWORK 1](module5/module_5_1.py) | Атрибуты и методы объекта |
+| Homeworks                                 | Description               |
+|-------------------------------------------|---------------------------|
+| [HOMEWORK 1](module5/module_5_1_and_2.py) | Атрибуты и методы объекта |
+| [HOMEWORK 2](module5/module_5_1_and_2.py) | Базовые магические методы |
