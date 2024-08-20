@@ -70,7 +70,8 @@ python.\homework1.py
 
 ### <a id="title6">Модуль 5</a>
 
-| Homeworks                                 | Description               |
-|-------------------------------------------|---------------------------|
-| [HOMEWORK 1](module5/module_5_1_and_2.py) | Атрибуты и методы объекта |
-| [HOMEWORK 2](module5/module_5_1_and_2.py) | Базовые магические методы |
+| Homeworks                                 | Description                                 |
+|-------------------------------------------|---------------------------------------------|
+| [HOMEWORK 1](module5/module_5_1_and_2.py) | Атрибуты и методы объекта                   |
+| [HOMEWORK 2](module5/module_5_1_and_2.py) | Базовые магические методы                   |
+| [HOMEWORK 3](module5/module_5_3.py)       | Перегрузка операторов. Нужно больше этажей. |
