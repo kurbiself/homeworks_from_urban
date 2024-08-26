@@ -66,7 +66,7 @@ python.\homework1.py
 | Homeworks                             | Description                             |
 |---------------------------------------|-----------------------------------------|
 | [HOMEWORK 1](module4/module_4_1.py)   | Модули и пакеты. Задача "А как делить?" |
-| [Practical task](module4/sortfunc.py) | Пространство имён. Сортирвока"          |
+| [Practical task](module4/sortfunc.py) | Пространство имён. Сортировка           |
 
 ### <a id="title6">Модуль 5</a>
 
@@ -76,3 +76,5 @@ python.\homework1.py
 | [HOMEWORK 2](module5/module_5_1_and_2.py) | Базовые магические методы                                     |
 | [HOMEWORK 3](module5/module_5_3.py)       | Перегрузка операторов. Нужно больше этажей.                   |
 | [HOMEWORK 4](module5/module_5_4.py)       | Различие атрибутов класса и экземпляра. История строительства |
+| [HOMEWORK HARD](module5/module_5_hard.py) | Дополнительное задание по классам                             |
+| [Practical task](module5/practice_5)      | Практический модуль                                           |
