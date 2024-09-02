@@ -13,6 +13,7 @@
     * [Модуль 4](#title5)
     * [Модуль 5](#title6)
     * [Модуль 6](#title7)
+    * [Модуль 7](#title8)
 
 ## <a id="title1">Описание проекта</a>
 
@@ -89,3 +90,9 @@ python.\homework1.py
 | [HOMEWORK 3](module6/module_6_3.py)       | Множественное наследование.                           |
 | [HOMEWORK HARD](module6/module_6_hard.py) | Дополнительное задание модуля                         |
 | [Practical task](module6/practice_6)      | Пинг-понг                                             |
+
+### <a id="title8">Модуль 7</a>
+
+| Homeworks                           | Description   |
+|-------------------------------------|---------------|
+| [HOMEWORK 1](module7/module_7_1.py) | Учёт товаров. |
