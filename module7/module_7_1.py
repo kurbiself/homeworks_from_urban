@@ -1,4 +1,10 @@
 class Product:
+    """
+    Даннный класс отображает наименование, вес и категорию продукта
+
+    Attributes: name, weight, category
+
+    """
     def __init__(self, name: str, weight: float, category: str):
         self.name = name
         self.weight = weight
