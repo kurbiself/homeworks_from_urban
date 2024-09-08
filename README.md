@@ -99,3 +99,4 @@ python.\homework1.py
 | [HOMEWORK 2](module7/module_7_2.py) | Позиционирование в файле". "Записать и запомнить" |
 | [HOMEWORK 3](module7/module_7_3.py) | Оператор "with".                                  |
 | [HOMEWORK 4](module7/module_7_4.py) | Форматирование строк                              |
+| [HOMEWORK 5](module7/module_7_5.py) | Файлы в операционном системе.                     |
