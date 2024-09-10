@@ -14,6 +14,7 @@
     * [Модуль 5](#title6)
     * [Модуль 6](#title7)
     * [Модуль 7](#title8)
+    * [Модуль 8](#title9)
 
 ## <a id="title1">Описание проекта</a>
 
@@ -100,3 +101,9 @@ python.\homework1.py
 | [HOMEWORK 3](module7/module_7_3.py) | Оператор "with".                                  |
 | [HOMEWORK 4](module7/module_7_4.py) | Форматирование строк                              |
 | [HOMEWORK 5](module7/module_7_5.py) | Файлы в операционном системе.                     |
+
+### <a id="title9">Модуль 8</a>
+
+| Homeworks                           | Description                             |
+|-------------------------------------|-----------------------------------------|
+| [HOMEWORK 1](module8/module_8_1.py) | "Try и Except". Программистам всё можно |
