@@ -94,13 +94,14 @@ python.\homework1.py
 
 ### <a id="title8">Модуль 7</a>
 
-| Homeworks                           | Description                                       |
-|-------------------------------------|---------------------------------------------------|
-| [HOMEWORK 1](module7/module_7_1.py) | Учёт товаров.                                     |
-| [HOMEWORK 2](module7/module_7_2.py) | Позиционирование в файле". "Записать и запомнить" |
-| [HOMEWORK 3](module7/module_7_3.py) | Оператор "with".                                  |
-| [HOMEWORK 4](module7/module_7_4.py) | Форматирование строк                              |
-| [HOMEWORK 5](module7/module_7_5.py) | Файлы в операционном системе.                     |
+| Homeworks                               | Description                                       |
+|-----------------------------------------|---------------------------------------------------|
+| [HOMEWORK 1](module7/module_7_1.py)     | Учёт товаров.                                     |
+| [HOMEWORK 2](module7/module_7_2.py)     | Позиционирование в файле". "Записать и запомнить" |
+| [HOMEWORK 3](module7/module_7_3.py)     | Оператор "with".                                  |
+| [HOMEWORK 4](module7/module_7_4.py)     | Форматирование строк                              |
+| [HOMEWORK 5](module7/module_7_5.py)     | Файлы в операционном системе.                     |
+| [Practical task](module7/practice_7.py) | Файлы в операционном системе.                     |
 
 ### <a id="title9">Модуль 8</a>
 
