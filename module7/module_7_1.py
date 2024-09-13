@@ -5,6 +5,7 @@ class Product:
     Attributes: name, weight, category
 
     """
+
     def __init__(self, name: str, weight: float, category: str):
         self.name = name
         self.weight = weight
@@ -15,9 +16,11 @@ class Product:
 
 
 class Shop:
-    __file_name = 'products.txt'
+    def __init__(self):
+        self.__file_name = 'products.txt'
 
     def get_products(self):
+
         file = open(self.__file_name, 'r')
         result = file.read()
         file.close()
@@ -39,7 +42,7 @@ p2 = Product('Spaghetti', 3.4, 'Groceries')
 p3 = Product('Potato', 5.5, 'Vegetables')
 p4 = Product('Potato2', 5.5, 'Wow')
 
-print(p2) # __str__
+print(p2)  # __str__
 
 s1.add(p1, p2, p3)
 
