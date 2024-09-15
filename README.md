@@ -110,3 +110,4 @@ python.\homework1.py
 | [HOMEWORK 1](module8/module_8_1.py) | "Try и Except". Программистам всё можно                               |
 | [HOMEWORK 2](module8/module_8_2.py) | Сложные моменты и исключения в стеке вызовов функции. "План перехват" |
 | [HOMEWORK 3](module8/module_8_3.py) | "Создание исключений"                                                 |
+| [Practice](module8/practice_8.py)   | Обработка ошибок калькулятора.                                        |
