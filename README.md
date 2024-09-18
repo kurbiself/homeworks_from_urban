@@ -118,4 +118,5 @@ python.\homework1.py
 | Homeworks                           | Description                                |
 |-------------------------------------|--------------------------------------------|
 | [HOMEWORK 1](module9/module_9_1.py) | Введение в функциональное программирование |
-| [HOMEWORK 1](module9/module_9_2.py) | Списковые, словарные сборки                |
+| [HOMEWORK 2](module9/module_9_2.py) | Списковые, словарные сборки                |
+| [HOMEWORK 3](module9/module_9_3.py) | Генераторные сборки                        |
