@@ -123,3 +123,4 @@ python.\homework1.py
 | [HOMEWORK 4](module9/module_9_4.py) | Функции на лету                            |
 | [HOMEWORK 5](module9/module_9_5.py) | Итераторы                                  |
 | [HOMEWORK 6](module9/module_9_6.py) | Генераторы                                 |
+| [HOMEWORK 7](module9/module_9_7.py) | Декораторы                                 |
