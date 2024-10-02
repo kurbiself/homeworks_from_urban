@@ -16,6 +16,7 @@
     * [Модуль 7](#title8)
     * [Модуль 8](#title9)
     * [Модуль 9](#title10)
+    * [Модуль 10](#title11)
 
 ## <a id="title1">Описание проекта</a>
 
@@ -124,3 +125,11 @@ python.\homework1.py
 | [HOMEWORK 5](module9/module_9_5.py) | Итераторы                                  |
 | [HOMEWORK 6](module9/module_9_6.py) | Генераторы                                 |
 | [HOMEWORK 7](module9/module_9_7.py) | Декораторы                                 |
+| [Practice](module9/practice_9.py)   | Декораторы                                 |
+
+### <a id="title11">Модуль 10</a>
+
+| Homeworks                             | Description        |
+|---------------------------------------|--------------------|
+| [HOMEWORK 1](module10/module_10_1.py) | Потоки.            |
+| [HOMEWORK 2](module10/module_10_2.py) | Потока на классах. |
