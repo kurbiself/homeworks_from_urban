@@ -129,7 +129,8 @@ python.\homework1.py
 
 ### <a id="title11">Модуль 10</a>
 
-| Homeworks                             | Description        |
-|---------------------------------------|--------------------|
-| [HOMEWORK 1](module10/module_10_1.py) | Потоки.            |
-| [HOMEWORK 2](module10/module_10_2.py) | Потока на классах. |
+| Homeworks                             | Description                    |
+|---------------------------------------|--------------------------------|
+| [HOMEWORK 1](module10/module_10_1.py) | Потоки.                        |
+| [HOMEWORK 2](module10/module_10_2.py) | Потока на классах.             |
+| [HOMEWORK 3](module10/module_10_3.py) | Блокировки и обработка ошибок. |
