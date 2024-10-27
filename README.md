@@ -18,6 +18,7 @@
     * [Модуль 9](#title10)
     * [Модуль 10](#title11)
     * [Модуль 11](#title12)
+    * [Модуль 12](#title13)
 
 ## <a id="title1">Описание проекта</a>
 
@@ -146,4 +147,8 @@ python.\homework1.py
 | [HOMEWORK 1](module11/module_11_1.py) | Работа с библиотеками. |
 | [HOMEWORK 2](module11/module_11_3.py) | Интроспекция.          |
 
+### <a id="title13">Модуль 12</a>
 
+| Homeworks                                  | Description        |
+|--------------------------------------------|--------------------|
+| [HOMEWORK 1](module12/module_12_1_test.py) | Простые Юнит-тесты |
