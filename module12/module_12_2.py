@@ -37,9 +37,3 @@ class Tournament:
             result.update({place:(f[1]).name})
             place += 1
         return result
-
-r1 = Runner('Усэйн', 10)
-r2 = Runner('Андрей', 9)
-r3 = Runner('Ник', 3)
-t = Tournament(90,r1,r2,r3)
-print(t.start())
