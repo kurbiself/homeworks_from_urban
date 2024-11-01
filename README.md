@@ -149,7 +149,8 @@ python.\homework1.py
 
 ### <a id="title13">Модуль 12</a>
 
-| Homeworks                                  | Description              |
-|--------------------------------------------|--------------------------|
-| [HOMEWORK 1](module12/module_12_1_test.py) | Простые Юнит-тесты       |
-| [HOMEWORK 2](module12/module_12_2_test.py) | Методы Юнит-тестирования |
+| Homeworks                                  | Description                     |
+|--------------------------------------------|---------------------------------|
+| [HOMEWORK 1](module12/module_12_1_test.py) | Простые Юнит-тесты              |
+| [HOMEWORK 2](module12/module_12_2_test.py) | Методы Юнит-тестирования        |
+| [HOMEWORK 3](module12/suite_12_3.py)       | Систематизация и пропуск тестов |
