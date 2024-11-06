@@ -1,0 +1,16 @@
+2024-11-06 23:06:42,079 | WARNING | Неверный тип данных
+Traceback (most recent call last):
+  File "C:\urban_py\homeworks_from_urban\module12\test_12_4.py", line 24, in test_run
+    raise TypeError('Имя должно быть строкой!')
+TypeError: Имя должно быть строкой!
+2024-11-06 23:06:42,081 | INFO | Скорость бегуна не может быть отрицательной, у вас -5
+Traceback (most recent call last):
+  File "C:\urban_py\homeworks_from_urban\module12\test_12_4.py", line 16, in test_walk
+    self.assertEqual(runer_test.distance, 50)
+  File "C:\Program Files\JetBrains\PyCharm Community Edition 2023.3.5\plugins\python-ce\helpers\pycharm\teamcity\diff_tools.py", line 33, in _patched_equals
+    old(self, first, second, msg)
+  File "C:\Users\пе\AppData\Local\Programs\Python\Python310\lib\unittest\case.py", line 845, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\пе\AppData\Local\Programs\Python\Python310\lib\unittest\case.py", line 838, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: -50 != 50

@@ -1,5 +1,5 @@
 class Runner:
-    def __init__(self, name, speed=5):
+    def __init__(self, name: str, speed=5):
         self.name = name
         self.distance = 0
         self.speed = speed
