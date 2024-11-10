@@ -19,6 +19,7 @@
     * [Модуль 10](#title11)
     * [Модуль 11](#title12)
     * [Модуль 12](#title13)
+    * [Модуль 13](#title14)
 
 ## <a id="title1">Описание проекта</a>
 
@@ -154,3 +155,12 @@ python.\homework1.py
 | [HOMEWORK 1](module12/module_12_1_test.py) | Простые Юнит-тесты              |
 | [HOMEWORK 2](module12/module_12_2_test.py) | Методы Юнит-тестирования        |
 | [HOMEWORK 3](module12/suite_12_3.py)       | Систематизация и пропуск тестов |
+| [HOMEWORK 4](module12/test_12_4.py)        |                                 |
+
+### <a id="title14">Модуль 13</a>
+
+| Homeworks                             | Description                       |
+|---------------------------------------|-----------------------------------|
+| [HOMEWORK 1](module13/module_13_1.py) | Асинхронность                     |
+| [HOMEWORK 2](module13/module_13_2.py) | Обработка сообщений телеграм-бота |
+| [HOMEWORK 3](module13/module_13_3.py) | "Он мне ответил!"                 |
