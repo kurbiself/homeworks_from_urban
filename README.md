@@ -166,3 +166,4 @@ python.\homework1.py
 | [HOMEWORK 3](module13/module_13_3.py) | Он мне ответил!                   |
 | [HOMEWORK 4](module13/module_13_4.py) | Цепочка вопросов                  |
 | [HOMEWORK 5](module13/module_13_5.py) | Клавиатура кнопок                 |
+| [HOMEWORK 6](module13/module_13_6.py) | Инлайн клавиатуры                 |
