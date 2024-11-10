@@ -163,4 +163,5 @@ python.\homework1.py
 |---------------------------------------|-----------------------------------|
 | [HOMEWORK 1](module13/module_13_1.py) | Асинхронность                     |
 | [HOMEWORK 2](module13/module_13_2.py) | Обработка сообщений телеграм-бота |
-| [HOMEWORK 3](module13/module_13_3.py) | "Он мне ответил!"                 |
+| [HOMEWORK 3](module13/module_13_3.py) | Он мне ответил!                   |
+| [HOMEWORK 4](module13/module_13_4.py) | Цепочка вопросов                  |
