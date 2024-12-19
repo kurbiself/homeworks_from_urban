@@ -15,7 +15,7 @@ async def admin_page() -> str:
 
 
 @app.get("/user/{user_id}")
-async def get_user(user_id: int = Path(ge=1, le=100, description='Enter User ID')) -> str:
+async def get_user(user_id: Annotated[int, Path(ge=1, le=100, description='Enter User ID')]) -> str:
     return f"Вы вошли как пользователь № {user_id}"
 
 
