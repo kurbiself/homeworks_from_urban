@@ -21,6 +21,7 @@
     * [Модуль 12](#title13)
     * [Модуль 13](#title14)
     * [Модуль 14](#title15)
+    * [Модуль 16](#title16)
 
 ## <a id="title1">Описание проекта</a>
 
@@ -177,3 +178,13 @@ python.\homework1.py
 | [HOMEWORK 2](module14/module_14_2.py) | Выбор элементов и функции в SQL запросах            |
 | [HOMEWORK 3](module14/module_14_3.py) | Доработка бота                                      |
 | [HOMEWORK 4](module14/module_14_4.py) | Продуктовая база.                                   |
+
+### <a id="title16">Модуль 16</a>
+
+| Homeworks                             | Description                          |
+|---------------------------------------|--------------------------------------|
+| [HOMEWORK 1](module16/module_16_1.py) | Основы FastApi                       |
+| [HOMEWORK 2](module16/module_16_2.py) | Валдация данных                      |
+| [HOMEWORK 3](module16/module_16_3.py) | CRUD Запросы: Get, Post, Put Delete. |
+| [HOMEWORK 4](module16/module_16_4.py) | Модели данных Pydantic               |
+| [HOMEWORK 5](module16/module_16_5.py) | Шаблонизатор Jinja 2                 |
